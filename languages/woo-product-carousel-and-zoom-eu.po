@@ -1,0 +1,220 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Product Carousel and Zoom\n"
+"POT-Creation-Date: 2017-04-03 09:21+0000\n"
+"PO-Revision-Date: 2017-04-03 09:21+0000\n"
+"Last-Translator: admin <info@biklik.net>\n"
+"Language-Team: Basque\n"
+"Language: eu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Report-Msgid-Bugs-To: "
+
+#: admin/includes/settings.php:277
+msgid "Colors"
+msgstr "Koloreak"
+
+#: woo-templates/single-product/product-image.php:46
+msgid "Placeholder"
+msgstr "Placeholder"
+
+#: admin/class-woo-product-carousel-and-zoom-admin.php:138
+#: admin/class-woo-product-carousel-and-zoom-admin.php:139
+msgid "Woo Product Carousel and Zoom"
+msgstr "Woo Product Carousel and Zoom"
+
+#: admin/class-woo-product-carousel-and-zoom-admin.php:164
+msgid "Settings"
+msgstr "Ezarpenak"
+
+#: public/class-woo-product-carousel-and-zoom.php:382
+#, php-format
+msgid ""
+"Thanks for using the <code>Woo Product Carousel and Zoom</code> plugin. Take "
+"a moment and configure the options in the <strong><a href=\"%s\">Settings "
+"Page.</a></strong>"
+msgstr ""
+"Milesker <code>WooCommerce Product Carousel and Zoom</code> plugina "
+"erabiltzearren. Tartetxo bat hartu eta aukera guztiak konfiguratu ditzakezu "
+"<strong><a href=\"%s\">ezarpenen atalean</a></strong>."
+
+#: public/class-woo-product-carousel-and-zoom.php:397
+msgid ""
+"<b>WooCommerce</b> is required to use <b>Woo Product Carousel and Zoom</b> "
+"plugin."
+msgstr ""
+"<b>WooCommerce</b> aktibatuta izatea beharrezkoa da <b>WooCommerce Product "
+"Carousel and Zoom</b> plugina erabiltzeko."
+
+#: admin/includes/settings.php:78
+msgid "Carousel Options"
+msgstr "Birakariaren aukerak"
+
+#: admin/includes/settings.php:79
+msgid "Zoom Options"
+msgstr "Zoomaren aukerak"
+
+#: admin/includes/settings.php:157
+msgid "Show Navigation"
+msgstr "Nabigazioa erakutsi"
+
+#: admin/includes/settings.php:159
+msgid "Show Pagination"
+msgstr "Paginazioa erakutsi"
+
+#: admin/includes/settings.php:161 admin/includes/settings.php:224
+msgid "Infinite Loop"
+msgstr "Loop mugagabea"
+
+#: admin/includes/settings.php:163
+msgid "Opacity Effect"
+msgstr "Opakutasun efektuak"
+
+#: admin/includes/settings.php:165
+msgid "Thumbnails Margins"
+msgstr "Iruditxoen marjinak"
+
+#: admin/includes/settings.php:167
+msgid "Number of Thumbnails"
+msgstr "Iruditxo kopurua"
+
+#: admin/includes/settings.php:171
+msgid "Primary Color"
+msgstr "Kolore nagusia"
+
+#: admin/includes/settings.php:173
+msgid "Navigation Arrows Color"
+msgstr "Nabigazio gezien kolorea"
+
+#: admin/includes/settings.php:181
+msgid "Zoom"
+msgstr "Zoom"
+
+#: admin/includes/settings.php:183
+msgid "Zoom Position"
+msgstr "Zoomaren kokapena"
+
+#: admin/includes/settings.php:200
+msgid "Show Navigation arrows"
+msgstr "Erakutsi nabigazio geziak"
+
+#: admin/includes/settings.php:201
+msgid "Check this option to show navigation arrows"
+msgstr "Aukera hau markatu nabigazio geziak erakusteko"
+
+#: admin/includes/settings.php:212
+msgid "Show Thumbnails Pagination under the Carousel"
+msgstr "Paginazioa erakutsi iruditxoen azpialdean"
+
+#: admin/includes/settings.php:213
+msgid "Check this option to display pagination dots below the carousel"
+msgstr "Aukeratu paginazioa botoiak erakusteko iruditxoen azpialdean"
+
+#: admin/includes/settings.php:225
+msgid "Check this option to infinite loop"
+msgstr "Aukeratu loop infinitua egiteko"
+
+#: admin/includes/settings.php:236
+msgid "Thumbnails Opacity"
+msgstr "Iruditxoen opakutasuna"
+
+#: admin/includes/settings.php:237
+msgid "Opacity effect hovering the mouse behind thumbnails"
+msgstr "Opakotasun efektua egin iruditxoen gainetik sagua pasatzerakoan"
+
+#: admin/includes/settings.php:247
+msgid "No Margins"
+msgstr "Espaziorik gabe"
+
+#: admin/includes/settings.php:248
+msgid "Regular Margin"
+msgstr "Espazio txikia"
+
+#: admin/includes/settings.php:249
+msgid "Big Margin"
+msgstr "Espazio handia"
+
+#: admin/includes/settings.php:263
+msgid "Choose the margin between thumbnails"
+msgstr "Aukeratu zenbat espazio utzi iruditxoen artean"
+
+#: admin/includes/settings.php:272
+msgid "Choose the number of thumbnails to show in the carousel"
+msgstr "Aukeratu birakarian erakutsi nahi duzun irudi kopurua"
+
+#: admin/includes/settings.php:284
+msgid ""
+"Set the primary color of buttons: <code>Navigation, Pagination...</code>"
+msgstr "Botoien kolore nagusia zehaztu: <code>nabigazioa, paginazioa...</code>"
+
+#: admin/includes/settings.php:293
+msgid "Set the color for the carousel arrows"
+msgstr "Nabigazio gezien kolorea zehaztu"
+
+#: admin/includes/settings.php:297
+msgid "Transparent Background"
+msgstr "Atzekalde transparentea"
+
+#: admin/includes/settings.php:298
+msgid "Transparent background for navigation arrows"
+msgstr "Nabigazio gezientzako atzekalde transparentea"
+
+#: admin/includes/settings.php:310
+msgid "Above Image"
+msgstr "Irudiaren gainean"
+
+#: admin/includes/settings.php:311
+msgid "Right"
+msgstr "Eskuman"
+
+#: admin/includes/settings.php:320
+msgid "Choose the zoom effect position"
+msgstr "Aukeratu zoom efektuaren kokapena"
+
+#: admin/includes/settings.php:363
+msgid "Insert a valid color please"
+msgstr "Sartu balezko kolorea mesedez"
+
+#: admin/views/admin.php:30
+#, php-format
+msgid "%s Settings"
+msgstr "s% pluginaren ezarpenak"
+
+#: admin/views/admin.php:65
+msgid "Default Settings"
+msgstr "Lehenetsitako ezarpenak"
+
+#: admin/views/admin.php:69
+msgid "Would you like to support the advancement of this plugin?"
+msgstr "Plugin honen hobekuntzan lagundu nahi al duzu?"
+
+#: admin/views/admin.php:71
+msgid "Donate to this plugin"
+msgstr "Donazio bat egin"
+
+#. Description of the plugin
+msgid "Add an easy product carousel and zoom to product page on WooCommerce"
+msgstr ""
+"Gehitu modu erraz batean irudi birakaria eta zoom efektua zure WooCommerce "
+"produktu orrirari"
+
+#. URI of the plugin
+msgid "https://es.wordpress.org/plugins/woo-product-carousel-and-zoom/"
+msgstr "https://eu.wordpress.org/plugins/woo-product-carousel-and-zoom/"
+
+#. Author of the plugin
+msgid "biklik"
+msgstr "biklik"
+
+#. Author URI of the plugin
+msgid "http://www.biklik.net"
+msgstr "http://www.biklik.net"

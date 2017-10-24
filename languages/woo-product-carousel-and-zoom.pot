@@ -1,0 +1,209 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-03 09:21+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Name of the plugin
+#: admin/class-woo-product-carousel-and-zoom-admin.php:138
+#: admin/class-woo-product-carousel-and-zoom-admin.php:139
+msgid "Woo Product Carousel and Zoom"
+msgstr ""
+
+#: admin/class-woo-product-carousel-and-zoom-admin.php:164
+msgid "Settings"
+msgstr ""
+
+#: public/class-woo-product-carousel-and-zoom.php:382
+#, php-format
+msgid ""
+"Thanks for using the <code>Woo Product Carousel and Zoom</code> plugin. Take "
+"a moment and configure the options in the <strong><a href=\"%s\">Settings "
+"Page.</a></strong>"
+msgstr ""
+
+#: public/class-woo-product-carousel-and-zoom.php:397
+msgid ""
+"<b>WooCommerce</b> is required to use <b>Woo Product Carousel and Zoom</b> "
+"plugin."
+msgstr ""
+
+#: admin/includes/settings.php:78
+msgid "Carousel Options"
+msgstr ""
+
+#: admin/includes/settings.php:79
+msgid "Zoom Options"
+msgstr ""
+
+#: admin/includes/settings.php:157
+msgid "Show Navigation"
+msgstr ""
+
+#: admin/includes/settings.php:159
+msgid "Show Pagination"
+msgstr ""
+
+#: admin/includes/settings.php:161 admin/includes/settings.php:224
+msgid "Infinite Loop"
+msgstr ""
+
+#: admin/includes/settings.php:163
+msgid "Opacity Effect"
+msgstr ""
+
+#: admin/includes/settings.php:165
+msgid "Thumbnails Margins"
+msgstr ""
+
+#: admin/includes/settings.php:167
+msgid "Number of Thumbnails"
+msgstr ""
+
+#: admin/includes/settings.php:171
+msgid "Primary Color"
+msgstr ""
+
+#: admin/includes/settings.php:173
+msgid "Navigation Arrows Color"
+msgstr ""
+
+#: admin/includes/settings.php:181
+msgid "Zoom"
+msgstr ""
+
+#: admin/includes/settings.php:183
+msgid "Zoom Position"
+msgstr ""
+
+#: admin/includes/settings.php:200
+msgid "Show Navigation arrows"
+msgstr ""
+
+#: admin/includes/settings.php:201
+msgid "Check this option to show navigation arrows"
+msgstr ""
+
+#: admin/includes/settings.php:212
+msgid "Show Thumbnails Pagination under the Carousel"
+msgstr ""
+
+#: admin/includes/settings.php:213
+msgid "Check this option to display pagination dots below the carousel"
+msgstr ""
+
+#: admin/includes/settings.php:225
+msgid "Check this option to infinite loop"
+msgstr ""
+
+#: admin/includes/settings.php:236
+msgid "Thumbnails Opacity"
+msgstr ""
+
+#: admin/includes/settings.php:237
+msgid "Opacity effect hovering the mouse behind thumbnails"
+msgstr ""
+
+#: admin/includes/settings.php:247
+msgid "No Margins"
+msgstr ""
+
+#: admin/includes/settings.php:248
+msgid "Regular Margin"
+msgstr ""
+
+#: admin/includes/settings.php:249
+msgid "Big Margin"
+msgstr ""
+
+#: admin/includes/settings.php:263
+msgid "Choose the margin between thumbnails"
+msgstr ""
+
+#: admin/includes/settings.php:272
+msgid "Choose the number of thumbnails to show in the carousel"
+msgstr ""
+
+#: admin/includes/settings.php:277
+msgid "Colors"
+msgstr ""
+
+#: admin/includes/settings.php:284
+msgid ""
+"Set the primary color of buttons: <code>Navigation, Pagination...</code>"
+msgstr ""
+
+#: admin/includes/settings.php:293
+msgid "Set the color for the carousel arrows"
+msgstr ""
+
+#: admin/includes/settings.php:297
+msgid "Transparent Background"
+msgstr ""
+
+#: admin/includes/settings.php:298
+msgid "Transparent background for navigation arrows"
+msgstr ""
+
+#: admin/includes/settings.php:310
+msgid "Above Image"
+msgstr ""
+
+#: admin/includes/settings.php:311
+msgid "Right"
+msgstr ""
+
+#: admin/includes/settings.php:320
+msgid "Choose the zoom effect position"
+msgstr ""
+
+#: admin/includes/settings.php:363
+msgid "Insert a valid color please"
+msgstr ""
+
+#: admin/views/admin.php:30
+#, php-format
+msgid "%s Settings"
+msgstr ""
+
+#: admin/views/admin.php:65
+msgid "Default Settings"
+msgstr ""
+
+#: admin/views/admin.php:69
+msgid "Would you like to support the advancement of this plugin?"
+msgstr ""
+
+#: admin/views/admin.php:71
+msgid "Donate to this plugin"
+msgstr ""
+
+#: woo-templates/single-product/product-image.php:46
+msgid "Placeholder"
+msgstr ""
+
+#. Description of the plugin
+msgid "Add an easy product carousel and zoom to product page on WooCommerce"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://es.wordpress.org/plugins/woo-product-carousel-and-zoom/"
+msgstr ""
+
+#. Author of the plugin
+msgid "biklik"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.biklik.net"
+msgstr ""
